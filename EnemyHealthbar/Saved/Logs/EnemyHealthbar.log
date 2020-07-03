@@ -1,0 +1,1192 @@
+﻿Log file open, 04/08/20 14:18:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EnemyHealthbar
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285481
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.653s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 970M
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="DeH Studio" -epicuserid=54f6911ca27b45ba85aef30d9ca8d41d -epiclocale=en
+LogInit: Base Directory: E:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.04.08-12.18.17:687][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-12.18.17:687][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-12.18.17:724][  0]LogHAL: Display: Platform has ~ 8 GB [8536555520 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-12.18.17:724][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.04.08-12.18.17:724][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-12.18.17:724][  0]LogInit: Computer: DESKTOP-O4MKAUE
+[2020.04.08-12.18.17:724][  0]LogInit: User: liu
+[2020.04.08-12.18.17:724][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.08-12.18.17:724][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.08-12.18.17:725][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.04.08-12.18.17:725][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-12.18.17:725][  0]LogMemory: Process Physical Memory: 102.21 MB used, 102.21 MB peak
+[2020.04.08-12.18.17:725][  0]LogMemory: Process Virtual Memory: 91.13 MB used, 91.13 MB peak
+[2020.04.08-12.18.17:725][  0]LogMemory: Physical Memory: 6524.14 MB used,  1616.96 MB free, 8141.09 MB total
+[2020.04.08-12.18.17:725][  0]LogMemory: Virtual Memory: 4623.12 MB used,  1616.96 MB free, 134217728.00 MB total
+[2020.04.08-12.18.17:749][  0]LogInit: Using OS detected language (sv-SE).
+[2020.04.08-12.18.17:749][  0]LogInit: Using OS detected locale (sv-SE).
+[2020.04.08-12.18.17:750][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2020.04.08-12.18.18:190][  0]LogStreaming: Display: Took  0.441s to InitEngineTextLocalization.
+[2020.04.08-12.18.18:190][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-12.18.18:288][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-12.18.18:289][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-12.18.18:649][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-12.18.18:649][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-12.18.18:731][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2020.04.08-12.18.18:731][  0]LogD3D11RHI:       3029/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.08-12.18.18:889][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-12.18.18:889][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-12.18.18:889][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-12.18.18:906][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-12.18.18:906][  0]LogD3D11RHI:     GPU DeviceId: 0x1618 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-12.18.18:906][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-12.18.18:907][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970M' (P:1 D:1)
+[2020.04.08-12.18.18:908][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.04.08-12.18.18:910][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.04.08-12.18.18:911][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.04.08-12.18.18:912][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.08-12.18.18:912][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2020.04.08-12.18.18:912][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.08-12.18.18:912][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.08-12.18.18:912][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.04.08-12.18.18:974][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-12.18.18:994][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.08-12.18.18:998][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal projects/EnemyHealthbar/Intermediate/Shaders/WorkingDirectory/3156/).
+[2020.04.08-12.18.18:998][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/liu/AppData/Local/Temp/UnrealShaderWorkingDir/560523B54398B469B5E8B881D61F2B28/'.
+[2020.04.08-12.18.19:404][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.08-12.18.19:419][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.08-12.18.19:433][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.08-12.18.19:447][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.08-12.18.19:461][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.08-12.18.19:475][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.08-12.18.19:488][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.08-12.18.19:504][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.08-12.18.19:510][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.08-12.18.19:622][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.08-12.18.19:689][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.08-12.18.19:689][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.08-12.18.19:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.08-12.18.19:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.08-12.18.19:736][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.08-12.18.19:752][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.08-12.18.19:767][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.08-12.18.19:781][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.08-12.18.19:793][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.08-12.18.19:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-12.18.19:849][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-12.18.19:849][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-12.18.19:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-12.18.20:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-12.18.20:824][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/liu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.08-12.18.20:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/liu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.04.08-12.18.20:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal projects/EnemyHealthbar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-12.18.20:825][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-12.18.20:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal projects/EnemyHealthbar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-12.18.20:825][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-12.18.20:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-12.18.20:858][  0]LogDerivedDataCache: Using Local data cache path C:/Users/liu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-12.18.20:858][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-12.18.20:858][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-12.18.20:878][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-12.18.20:879][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.08-12.18.20:880][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-12.18.20:977][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2020.04.08-12.18.21:344][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-12.18.21:494][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.08-12.18.21:497][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.08-12.18.21:497][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-12.18.21:497][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-12.18.21:497][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.08-12.18.21:518][  0]LogNetVersion: EnemyHealthbar 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3409093482)
+[2020.04.08-12.18.22:190][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.089269 seconds
+[2020.04.08-12.18.22:200][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.04.08-12.18.22:200][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2020.04.08-12.18.22:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-12.18.23:524][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-12.18.23:564][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-12.18.23:779][  0]SourceControl: Source control is disabled
+[2020.04.08-12.18.23:779][  0]SourceControl: Source control is disabled
+[2020.04.08-12.18.23:782][  0]SourceControl: Source control is disabled
+[2020.04.08-12.18.23:785][  0]SourceControl: Source control is disabled
+[2020.04.08-12.18.24:127][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-12.18.24:313][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-12.18.24:389][  0]LogEngine: Initializing Engine...
+[2020.04.08-12.18.24:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-12.18.24:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.08-12.18.24:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.08-12.18.24:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.08-12.18.24:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.08-12.18.24:781][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-12.18.24:807][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-12.18.24:897][  0]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.08-12.18.25:200][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-12.18.25:201][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-12.18.25:374][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/liu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.08-12.18.25:385][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-12.18.25:417][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-12.18.25:437][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-12.18.25:461][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-12.18.25:892][  0]LocalizationService: Localization service is disabled
+[2020.04.08-12.18.26:303][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal projects/EnemyHealthbar/Content/' took 0.01s
+[2020.04.08-12.18.26:303][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-12.18.26:303][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-12.18.26:303][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.08-12.18.26:303][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.08-12.18.26:303][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.08-12.18.26:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.08-12.18.26:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.08-12.18.26:614][  0]SourceControl: Source control is disabled
+[2020.04.08-12.18.26:614][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-12.18.26:615][  0]LightingResults: New page: Lighting Build
+[2020.04.08-12.18.26:619][  0]MapCheck: New page: Map Check
+[2020.04.08-12.18.26:619][  0]LightingResults: New page: Lighting Build
+[2020.04.08-12.18.26:857][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.08-12.18.26:862][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-12.18.26:886][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-12.18.26:949][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62,429ms to complete.
+[2020.04.08-12.18.26:949][  0]LogFileHelpers: Loading map 'Template_Default' took 0.335
+[2020.04.08-12.18.28:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.18.28:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.18.28:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.18.28:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.18.28:312][  0]LogCollectionManager: Loaded 0 collections in 0.001121 seconds
+[2020.04.08-12.18.28:570][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal projects/EnemyHealthbar/Saved/Collections/' took 0.01s
+[2020.04.08-12.18.28:570][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal projects/EnemyHealthbar/Content/Developers/liu/Collections/' took 0.01s
+[2020.04.08-12.18.28:570][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal projects/EnemyHealthbar/Content/Collections/' took 0.01s
+[2020.04.08-12.18.28:570][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.08-12.18.28:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2572 classes and 603 folders.
+[2020.04.08-12.18.28:672][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-12.18.31:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.08-12.18.31:765][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.04.08-12.18.33:587][  0]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-12.18.33:597][  0]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-12.18.33:713][  0]LogSlate: Took 0.025486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-12.18.34:484][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-12.18.35:204][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.08-12.18.35:204][  0]LogLoad: (Engine Initialization) Total time: 19.82 seconds
+[2020.04.08-12.18.35:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-12.18.35:298][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-12.18.48:590][791]LogAssetRegistry: Asset discovery search completed in 27.6345 seconds
+[2020.04.08-12.18.48:592][791]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.08-12.18.48:593][791]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2020.04.08-12.35.36:974][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.35.40:132][312]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-12.36.07:042][889]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.08-12.36.07:179][889]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-12.36.07:223][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-12.36.07:385][889]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1EFE5A5304AC57090F78AFF98BE048ED7.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap'
+[2020.04.08-12.36.07:455][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.04.08-12.36.07:540][889]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1_BuiltData8B7C3BDF4A2EF3A22410F9A8AFCA8520.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset'
+[2020.04.08-12.36.07:571][889]LogFileHelpers: Saving map 'Level1' took 0.469
+[2020.04.08-12.36.09:330][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-12.36.09:400][ 91]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level156EAE8BC4BD1C08975097DBE5D31BF3C.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap'
+[2020.04.08-12.36.09:415][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.04.08-12.36.09:457][ 91]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1_BuiltData02E32BFF415579665A8F12BBBA4AAE48.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset'
+[2020.04.08-12.36.26:963][442]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.08-12.36.34:837][241]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-12.36.34:860][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2020.04.08-12.36.34:925][241]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/BP_Enemy4738ACC742C05C3F247101A10862E1FE.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Blueprints/BP_Enemy.uasset'
+[2020.04.08-12.36.39:992][518]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.08-12.36.48:162][286]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-12.36.48:184][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD.uasset" SILENT=true
+[2020.04.08-12.36.48:211][286]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD147860EE4CFFA47C5B49BFA764DF7053.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD.uasset'
+[2020.04.08-12.38.15:263][428]LogMetaData: Removing '/Game/Widgets/WBP_HUD_Health.SKEL_WBP_HUD_Health_C' ref from Metadata '/Game/Widgets/WBP_HUD.PackageMetaData'
+[2020.04.08-12.38.15:263][428]LogMetaData: Removing '/Game/Widgets/WBP_HUD_Health.WBP_HUD_Health_C' ref from Metadata '/Game/Widgets/WBP_HUD.PackageMetaData'
+[2020.04.08-12.38.15:263][428]LogMetaData: Removing '/Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/WBP_HUD.PackageMetaData'
+[2020.04.08-12.38.15:263][428]LogMetaData: Removing '/Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/WBP_HUD.PackageMetaData'
+[2020.04.08-12.38.15:263][428]LogMetaData: Removing '/Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/WBP_HUD.PackageMetaData'
+[2020.04.08-12.38.15:297][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.38.15:318][428]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health6BE887D84157F3FC1F5555BED8ED443E.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.38.33:718][918]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health
+[2020.04.08-12.38.34:929][918]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2020.04.08-12.38.37:417][918]LogSlate: Took 0.023068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.08-12.39.11:637][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.39.11:649][763]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthAD33776546F03294C980768A77C0408D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.39.17:543][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.39.17:574][135]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthE99FE062456D31CE466B6C990DFF9591.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.39.24:509][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.39.24:531][591]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health85492ED94E056C4855AB94B93F7B811B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.42.49:112][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health_C:WidgetTree.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_0.WidgetTree_0.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_1.WidgetTree_0.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_2.WidgetTree_0.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_3.WidgetTree_0.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_4.WidgetTree_0.CanvasPanel_0
+[2020.04.08-12.42.49:113][666]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (ProgressBar /Engine/UMG/Editor/Transient.ProgressBar_0).  Import failed...
+[2020.04.08-12.42.49:113][666]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2020.04.08-12.43.06:808][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.43.06:818][749]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBBA32EF542D2875A29B6B3A12EAB6B5A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.43.28:880][239]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-12.43.36:294][688]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-12.43.40:568][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.43.40:579][928]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthDDC9E13B45E19ACB842AE1890C71F0DD.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.43.42:145][ 26]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.43.42:736][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.43.42:764][ 53]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthDAC624B14012428E869A40829D989B2E.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.44.12:069][ 29]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.44.22:917][728]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-12.44.24:526][819]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.44.25:195][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.44.25:209][857]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health11818C4145609DC2EE7BB48927C78684.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.44.32:256][280]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-12.44.34:013][380]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.44.34:747][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.44.34:759][420]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health4ED801A24B91FE12D79532A4257C032C.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.44.45:433][574]LogSlate: Took 0.025717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.08-12.44.48:593][915]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.44.48:596][915]LogClass: Warning: Type mismatch in CurrentArmor of WBP_HUD_Health_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2020.04.08-12.44.49:069][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.44.49:080][961]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB72C99B840CA3E2E8A98C3BEE5B81647.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.46.19:680][141]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.46.20:366][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.46.20:378][211]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthDC1B18864194E0F91D851896D37E7E7B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.46.28:508][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.46.28:520][112]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health4D2E3B8B44C4AD73EFE55BB66D9FE369.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.46.29:412][205]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.46.30:077][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.46.30:102][268]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBE4EFD6A434F5FFD3F7A129655FB127D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.47.20:939][157]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.47.21:486][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.47.21:498][212]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthD71D87264F56796274650E87D5E84CC5.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.47.38:310][121]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.47.38:891][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.47.38:904][183]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health0DCAE8F34D3A01B510FF4C8AA6873923.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.53.17:164][882]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.53.17:829][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.53.17:949][906]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health378DB3F5412E504498A64189D9E5FECF.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.53.51:539][793]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.53.52:113][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.53.52:151][811]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7EC5CB7141B2FD6E75795DB5022B5A02.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.54.03:988][183]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.54.04:600][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.54.04:630][208]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health2B8A90F94A2958647AAF3E975F105494.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.54.24:687][959]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.54.25:340][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.54.25:370][986]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health5B9BF8424357BD8922D9A9A466306AE8.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.54.31:023][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.54.31:052][258]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health979A7EE94E25D9151317F09A0372980E.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.54.32:011][299]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.54.32:538][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.54.32:568][315]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBBBB42334A0B903FFCBCD8AB18EE049C.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.54.59:183][ 98]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.54.59:909][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.54.59:935][109]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBF0889064D1A4F067CBD4D94B5426F45.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.55.41:026][628]LogSlate: Took 0.025234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-12.55.53:106][208]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.55.53:682][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.55.53:727][231]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health9147427B4E7C3E6F83BD89BF1137A868.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.56.01:817][585]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.56.02:556][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.56.02:581][618]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health0927768745974D2D587DDE9F02F1D641.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.56.52:729][580]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.56.53:733][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.56.53:756][634]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthCC599B7C43A3146ECF26F9812D13F94B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.57.01:574][102]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.57.02:269][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.57.02:296][140]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health2291DA6F45AE7977C9C540A10422B857.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.57.19:117][ 56]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.57.19:662][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.57.19:695][ 81]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health02E9F67E48573C438FBDC9AB838B1B0A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.57.39:106][163]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.57.39:673][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.57.39:700][189]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health897DBF3C49BEC29AA467E7AB3AB0C376.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.57.51:767][696]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.57.52:722][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.57.52:757][740]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health1A38D35C44813D3E7C0EAD8258091D61.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.57.59:665][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.57.59:696][981]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health386C91D548C083F7C23AA4995F4B1822.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.58.47:581][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.042
+[2020.04.08-12.58.47:606][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/WBP_HUD_Health] ([1] browsable assets)...
+[2020.04.08-12.58.47:606][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD_Health]
+[2020.04.08-12.58.47:606][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.08-12.58.47:652][939]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health_Auto1DEDA43614C8D7DC306691DA0EDB7F8B8.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto1.uasset'
+[2020.04.08-12.58.47:655][939]LogFileHelpers: Auto-saving content packages took 0.071
+[2020.04.08-12.58.49:746][991]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-12.58.50:370][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.58.50:405][  3]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthA1B0803749EC512C73B8F99D17D60514.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-12.58.54:302][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-12.58.54:335][ 58]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthDCB29D7243915070CF927D9CBD827235.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.03.46:803][395]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.03.47:789][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.03.47:913][421]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthAE7C40764F06FD65D95970890FF68B47.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.04.03:646][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_15.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:646][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_8.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:646][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_2.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:646][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_3.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_4.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_5.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_7:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_38.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_13.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_9.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_10.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_12:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_28.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_14:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_27.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_16:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:647][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_18.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_19:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_24.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_29.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_23.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_25:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_32.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_37.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_30:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_45.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_33.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_34.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_35:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:648][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_53.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_46.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_39.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_40.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_41.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_42.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_43:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_50.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_54.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_47:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_60.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_49.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:649][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_51:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_57.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_61.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_55:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_65.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_58:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_73.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_66.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_62.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_62:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_94:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_74.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_67.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_68.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_69.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_70.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_70:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_78.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_100.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:650][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_74:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_101.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_99.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_79.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_80.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_81.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_82.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_83.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_79:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WBP_HUD_Health_C_92:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_96.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_95.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_97.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health_C:WidgetTree.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_102.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:WBP_HUD_Health_C_103.WidgetTree_0.CanvasPanel_0
+[2020.04.08-13.04.03:651][858]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2020.04.08-13.04.03:651][858]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2020.04.08-13.04.53:130][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.04.53:183][341]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF3C1CA51435258E35CED45B03D0893B3.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.05.51:269][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.05.51:316][ 69]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF1D2D9B94BA0F540B80EFC802EC6B8C4.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.05.58:030][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.05.58:063][261]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health0C7C0381411730ADB233A6AF463EE2D9.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.05.59:785][314]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.06.00:401][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.06.00:445][327]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health90E2F4534C38E9CC888229B8F94C2398.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.10.13:987][839]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\liu\Pictures\Health.png)
+[2020.04.08-13.10.20:408][839]LogTexture: Display: Building textures: Health (AutoDXT, 800X600)
+[2020.04.08-13.10.30:199][922]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-13.10.30:507][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset" SILENT=true
+[2020.04.08-13.10.31:229][922]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/HealthA37FFC7642B8C57E1322B9BB53166A2A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset'
+[2020.04.08-13.11.13:088][162]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.11.16:247][255]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.11.53:516][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.11.53:628][462]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health4BC4869F4F06881C88B463B7208DB3A4.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.13.38:628][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.13.38:706][897]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthD723AC644507B1BB9B34C0A351A63BF9.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.14.06:441][307]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.15.26:590][727]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.15.49:875][437]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.15.50:887][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.15.50:956][450]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health3D491F884A99E880B3C3BAA2B6AC7C11.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.16.46:304][281]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.17.06:651][903]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.17.13:753][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.17.13:846][121]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthA02BF08943E9B6FD5D34C09D759C3454.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.17.14:729][148]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.17.15:356][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.17.15:429][162]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthCE37345C4F41A9F84468E5AB8A77E339.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.17.18:013][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.17.18:078][246]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7655772E4BC68E5E4C0A53BC10CC5D99.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.17.36:414][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.17.36:476][386]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health63B96EF34CC563D22CBA78A963A9195D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.18.42:463][822]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.18.48:015][986]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-13.18.50:492][ 59]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.18.51:320][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.18.51:364][ 76]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthFE026EF14CAB93019C4D47AA9F47ADA7.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.18.56:291][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.18.56:342][232]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health3168FB2947F9EA9B6F750EB896F19A91.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.21.01:267][173]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\liu\Pictures\Armor.png)
+[2020.04.08-13.21.01:373][173]LogTexture: Display: Building textures: Armor (AutoDXT, 800X600)
+[2020.04.08-13.21.05:162][251]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-13.21.05:216][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Armor" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset" SILENT=true
+[2020.04.08-13.21.05:307][251]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Armor89895D404C55C84254653FA31B277345.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset'
+[2020.04.08-13.21.17:595][798]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.21.19:877][845]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.21.26:002][893]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.21.35:287][893]LogSlate: Window 'Message' being destroyed
+[2020.04.08-13.21.39:963][ 22]Cmd: TRANSACTION UNDO
+[2020.04.08-13.21.40:184][ 22]LogEditorTransaction: Undo Edit Image
+[2020.04.08-13.21.46:105][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.21.46:238][319]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB2C761C340B949EF00413785F3835775.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.21.50:124][603]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-13.21.50:186][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Armor" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset" SILENT=true
+[2020.04.08-13.21.52:556][603]LogSlate: Window 'Message' being destroyed
+[2020.04.08-13.21.52:560][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Armor" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset" SILENT=true
+[2020.04.08-13.21.53:314][603]LogSlate: Window 'Message' being destroyed
+[2020.04.08-13.21.53:326][603]EditorErrors: New page: Save Output
+[2020.04.08-13.21.53:327][603]EditorErrors: Warning: Asset '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset' cannot be saved as it has only been partially loaded
+[2020.04.08-13.21.53:327][603]EditorErrors: Warning: Asset '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Armor.uasset' cannot be saved as it has only been partially loaded
+[2020.04.08-13.21.54:380][603]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.04.08-13.21.56:322][802]LogSlate: Window 'Message Log' being destroyed
+[2020.04.08-13.21.56:325][802]LogSlate: Window 'Message Log' being destroyed
+[2020.04.08-13.22.11:093][316]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.08-13.22.23:540][476]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\liu\Pictures\ArmorElement.png)
+[2020.04.08-13.22.23:568][476]LogTexture: Display: Building textures: ArmorElement (AutoDXT, 800X600)
+[2020.04.08-13.22.27:122][652]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-13.22.27:150][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/ArmorElement" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/ArmorElement.uasset" SILENT=true
+[2020.04.08-13.22.27:189][652]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/ArmorElement30737C9A4F020D1EC8C2329ED8AE122E.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/ArmorElement.uasset'
+[2020.04.08-13.22.37:834][213]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.22.41:924][301]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.22.43:149][301]LogSlate: Window 'Message' being destroyed
+[2020.04.08-13.22.43:871][338]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.23.18:836][205]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.23.20:019][205]LogSlate: Window 'Message' being destroyed
+[2020.04.08-13.23.20:655][241]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.23.21:841][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.23.21:979][269]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health3731CBDD4A04033519B9C3858FB65275.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.23.57:127][259]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.23.58:303][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.23.58:361][322]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthAB3C663D45F5B9DA083F04A2B9012F1D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.24.28:999][311]LogEditorTransaction: Undo Edit Draw As
+[2020.04.08-13.24.34:211][550]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.24.34:949][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.24.34:991][580]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health940401CB46751E0CBC88388CD3379582.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.24.51:295][855]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-13.24.52:852][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.24.52:891][941]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthC24AABEC4B65C595EFCAAC8D3A5110D4.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.25.35:168][ 18]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-13.25.35:788][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-13.25.35:863][ 43]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health9030A4924EA86382925549B814AC4CAC.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-13.30.32:574][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.055
+[2020.04.08-13.30.32:577][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/WBP_HUD_Health] ([1] browsable assets)...
+[2020.04.08-13.30.32:577][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD_Health]
+[2020.04.08-13.30.32:577][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.08-13.30.32:713][386]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health_Auto2F6F365DA475DA8C3FC5A4D9E9B9B6212.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto2.uasset'
+[2020.04.08-13.30.32:715][386]LogFileHelpers: Auto-saving content packages took 0.140
+[2020.04.08-14.06.17:357][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.06.41:974][405]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.06.43:136][471]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.06.43:883][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.06.43:998][493]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health4F5868404CC3527A45F4248D94FD6D27.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.07.05:951][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.07.05:972][991]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health75AFC8114518F0BEA5F5E2B841ED15EA.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.07.29:629][279]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.07.44:240][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.07.58:586][893]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.07.59:194][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.07.59:288][916]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7372797042120CECCE44CBB21C6C2E11.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.15.24:837][158]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-14.15.27:556][234]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-14.15.30:805][334]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-14.15.33:438][393]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.08-14.16.45:892][410]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.17.43:802][664]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.17.57:900][457]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.17.58:547][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.17.58:607][487]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health484B68D54F5C318EA879268C3B7B608A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.19.12:266][610]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.19.13:052][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.19.13:132][648]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health57A99D584BF91CFC421418BD928060C0.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.19.55:270][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.19.55:304][492]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB590583347B7089698701DA8679D1F0E.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.20.02:394][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.20.02:427][861]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF2FEA5B14E9FF7B9230B4BBBA5D0CADD.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.20.07:777][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.20.07:821][132]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health6D5B1560438AF4B34C6F6185C5F01305.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.20.12:708][383]LogAssetEditorManager: Opening Asset editor for Font /Engine/EngineFonts/Roboto.Roboto
+[2020.04.08-14.20.16:853][544]LogSlate: Window 'Roboto' being destroyed
+[2020.04.08-14.20.16:877][544]LogSlate: Window 'Roboto' being destroyed
+[2020.04.08-14.20.18:618][546]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_HUD_Health.WBP_HUD_Health
+[2020.04.08-14.20.36:626][373]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.20.39:151][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.20.39:181][406]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthD27065464A7A915E3634578AB337A15A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.22.04:042][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.22.04:094][807]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health603EB86F4D11ECF2FE3B058B4686DFCB.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.23.28:291][219]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.23.29:053][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.23.29:087][256]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health4B00F1914E495FC59479C6BC02CBCAB1.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.23.52:523][341]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.23.53:104][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.23.53:144][370]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB9F5F4BC470538A2F92CA29813E97975.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.24.00:364][705]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.24.00:982][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.24.01:016][736]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB50E172A4D28555E9EF636A7EC9714A0.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.24.21:580][777]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.24.22:093][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.24.22:141][801]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health8FF90AAA45F7D893E03F37933632A7DF.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.25.04:982][486]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.25.05:465][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.25.05:520][510]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7D9EF5CF4F20D4E5C16AE4A539335941.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.25.22:733][960]LogEditorTransaction: Undo Replace Pin Variable
+[2020.04.08-14.25.48:219][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.028
+[2020.04.08-14.25.48:221][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/WBP_HUD_Health] ([1] browsable assets)...
+[2020.04.08-14.25.48:221][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD_Health]
+[2020.04.08-14.25.48:221][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.08-14.25.48:302][119]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health_Auto3D6FD2FBE45441DEA622EF6BCCA449C17.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto3.uasset'
+[2020.04.08-14.25.48:303][119]LogFileHelpers: Auto-saving content packages took 0.084
+[2020.04.08-14.26.55:141][537]LogEditorFactories: Performing atomic reimport of [C:/Users/liu/Pictures/Health.png]
+[2020.04.08-14.26.55:142][537]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/liu/Pictures/Health.png)
+[2020.04.08-14.26.55:230][537]LogTexture: Display: Building textures: Health (AutoDXT, 800X600)
+[2020.04.08-14.26.55:618][537]LogEditorFactories: -- imported successfully
+[2020.04.08-14.26.57:062][571]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-14.26.57:119][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset" SILENT=true
+[2020.04.08-14.26.57:230][571]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/HealthCE47961B401837BF3F09CF95092B6F17.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset'
+[2020.04.08-14.26.57:239][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.26.57:286][571]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health0735FFDC4D14675EA69BB78C788C8E49.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.26.59:805][721]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.27.00:354][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.27.00:393][748]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBF11533745A4E334056E44849507AEA3.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.27.10:606][265]LogEditorTransaction: Undo Variable Toggle
+[2020.04.08-14.29.13:387][ 37]LogEditorFactories: Performing atomic reimport of [C:/Users/liu/Pictures/Health.png]
+[2020.04.08-14.29.13:388][ 37]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/liu/Pictures/Health.png)
+[2020.04.08-14.29.13:439][ 37]LogTexture: Display: Building textures: Health (AutoDXT, 800X600)
+[2020.04.08-14.29.13:830][ 37]LogEditorFactories: -- imported successfully
+[2020.04.08-14.29.15:578][ 93]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-14.29.15:608][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset" SILENT=true
+[2020.04.08-14.29.15:640][ 93]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Health1946A807404D4674083C5A919FD3EB73.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset'
+[2020.04.08-14.29.15:648][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.29.15:696][ 93]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health79E074CE409840A87C8E2A89192FE145.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.32.29:159][108]LogEditorFactories: Performing atomic reimport of [C:/Users/liu/Pictures/Health.png]
+[2020.04.08-14.32.29:160][108]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/liu/Pictures/Health.png)
+[2020.04.08-14.32.29:192][108]LogTexture: Display: Building textures: Health (AutoDXT, 800X600)
+[2020.04.08-14.32.29:611][108]LogEditorFactories: -- imported successfully
+[2020.04.08-14.35.48:857][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.033
+[2020.04.08-14.35.48:859][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/WBP_HUD_Health] ([1] browsable assets)...
+[2020.04.08-14.35.48:859][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_HUD_Health]
+[2020.04.08-14.35.48:859][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.08-14.35.48:939][ 62]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health_Auto440FC5BEE40E3BD027E5061A568FFFABB.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/WBP_HUD_Health_Auto4.uasset'
+[2020.04.08-14.35.48:941][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/Health] ([1] browsable assets)...
+[2020.04.08-14.35.48:974][ 62]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Widgets/Health.Health]
+[2020.04.08-14.35.48:974][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Health]
+[2020.04.08-14.35.48:974][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/Health_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.08-14.35.49:044][ 62]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Health_Auto402A65AE04F5B67AA4622ECB76D28464C.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Saved/Autosaves/Game/Widgets/Health_Auto4.uasset'
+[2020.04.08-14.35.49:045][ 62]LogFileHelpers: Auto-saving content packages took 0.187
+[2020.04.08-14.35.50:780][165]LogEditorFactories: Performing atomic reimport of [C:/Users/liu/Pictures/Health.png]
+[2020.04.08-14.35.50:781][165]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/liu/Pictures/Health.png)
+[2020.04.08-14.35.50:814][165]LogTexture: Display: Building textures: Health (AutoDXT, 800X600)
+[2020.04.08-14.35.51:163][165]LogEditorFactories: -- imported successfully
+[2020.04.08-14.35.53:392][249]LogSlate: Window 'Save Content' being destroyed
+[2020.04.08-14.35.53:418][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset" SILENT=true
+[2020.04.08-14.35.53:473][249]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Health330860604B97D21A96B0618564818466.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/Health.uasset'
+[2020.04.08-14.35.53:483][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.35.53:515][249]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health18FB990F46B352EA73E98FBA76B1BC4D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.36.06:324][977]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.36.06:986][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.36.07:019][  0]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthAF8DFD5C4C09DAB7F54F0BB134C8B4C6.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.38.00:850][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.38.00:883][106]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthE560C0C8435CAB5984516AB0AA8F73DC.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.38.02:020][167]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.38.02:652][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.38.02:685][194]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthA499B8CB481758B678AF93BD9716489D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.38.07:106][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.38.07:138][421]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF47AFF7A4E99C2ED360E59BB59008314.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.38.27:907][516]LogEditorTransaction: Undo Move Widget
+[2020.04.08-14.39.18:426][331]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.39.18:927][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.39.18:962][353]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBF13EBF34C5CAEFA0858D782C05801FF.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.39.39:376][440]LogEditorTransaction: Undo Move Anchor
+[2020.04.08-14.39.40:090][474]LogEditorTransaction: Undo Edit Right
+[2020.04.08-14.39.51:510][ 76]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.39.52:007][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.39.52:040][ 99]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health89F9E2534515E97B99B7488FBFE7884D.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.40.20:138][666]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.40.20:690][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.40.20:722][683]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health04F0534347F9943389FEE19B33EF9A0B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.40.31:550][250]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.40.32:114][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.40.32:147][275]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health722B121247287C427C595FAA27703028.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.40.59:720][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.40.59:774][815]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health94AC033F40041E9CBD4DA2ACAB709A8A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.41.03:655][ 16]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.41.04:320][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.41.04:373][ 46]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthD6A9E9BF4809E28986E0C489E4A4835C.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.41.09:013][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.41.09:047][274]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health5EA55FC141E838AD402B01973C3D708B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.41.22:569][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.41.22:624][ 47]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7E247F2645E58DF61561E28E7CECB057.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.43.56:742][341]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.43.57:357][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.43.57:422][366]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB6216CFE40E81AA9AAF840A8295721AF.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.45.14:251][553]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.45.23:014][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.45.39:936][944]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.46.13:607][805]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.46.22:202][271]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.46.40:234][256]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.47.33:918][256]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.47.34:572][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.47.34:656][287]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health5B516677499C6EF23A6691B77CCDEBCA.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.47.42:736][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.47.42:788][731]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF0CCEE6743EC0FD3D1F4708C2A27A173.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.48.28:513][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.48.28:567][996]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthD450B7D34F580043C58EE98EC7FA4AF3.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.48.36:920][319]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.48.37:639][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.48.37:694][357]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthC3D5964647CE2EEF397C0688A4C104E2.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.48.45:585][782]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.48.46:164][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.48.46:216][805]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health5782B44D42B43B2C802913ADFC7970D2.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.48.51:686][118]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.48.52:367][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.48.52:428][152]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthBB156AB540AFBE4DAAD9D8A79FE089D7.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.49.42:334][663]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.49.42:844][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.49.42:925][689]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health56C5535E421BFDD647EBA1AF05147FB8.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.49.45:544][823]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.49.45:975][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.49.46:031][844]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health9A9ED7744D871A8F9CC80BB2BB0F7322.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.50.32:836][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.50.32:891][654]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health7017E0EE43C7B6253E31FA9D47FBE79F.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.50.35:597][799]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-14.50.35:732][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-14.50.35:869][799]PIE: New page: PIE session: Level1 (8 apr 2020 18:50:35)
+[2020.04.08-14.50.35:880][799]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.04.08-14.50.36:078][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190928s)
+[2020.04.08-14.50.36:108][799]LogAIModule: Creating AISystem for world Level1
+[2020.04.08-14.50.36:118][799]LogPlayLevel: PIE: World Init took: (0.039668s)
+[2020.04.08-14.50.36:118][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.238210s)
+[2020.04.08-14.50.36:234][799]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.08-14.50.36:275][799]LogInit: FAudioDevice initialized.
+[2020.04.08-14.50.36:371][799]LogLoad: Game class is 'GameModeBase'
+[2020.04.08-14.50.36:509][799]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.04.08-16.50.36
+[2020.04.08-14.50.36:510][799]LogWorld: Bringing up level for play took: 0.101669
+[2020.04.08-14.50.36:809][799]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0119 seconds. Added 10 classes and 0 folders.
+[2020.04.08-14.50.36:918][799]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1,676
+[2020.04.08-14.50.38:408][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-14.50.38:568][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-14.50.38:646][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-14.50.38:708][850]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.08-14.51.10:889][629]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.51.27:206][562]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.51.47:827][707]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.08-14.52.45:429][990]BlueprintLog: New page: Compile WBP_HUD_Health
+[2020.04.08-14.52.46:241][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.52.46:311][ 30]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthB807FE3448CC074577B31793F927EFD5.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.52.49:209][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-14.52.49:407][189]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level11E37E5B34C47AE97029FCC9725456EE2.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap'
+[2020.04.08-14.52.49:454][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.04.08-14.52.49:633][189]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1_BuiltDataD7FFBD8F480EB0363AB49699B7FFA445.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset'
+[2020.04.08-14.57.22:355][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.57.22:411][164]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthF39ED9694EE10459ECB9A4BCB8F2979A.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-14.59.17:753][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-14.59.17:837][620]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_HealthA7B6767A45DA26CD4EBEB0B9DAD86712.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-15.01.42:736][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_HUD_Health" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset" SILENT=true
+[2020.04.08-15.01.42:787][185]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/WBP_HUD_Health2790F0724C30159C5F1E33ADB1907172.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Widgets/WBP_HUD_Health.uasset'
+[2020.04.08-15.06.09:874][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-15.06.10:085][398]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1EA4540BF47778F40816BDBA1C28ACC38.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap'
+[2020.04.08-15.06.10:106][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.04.08-15.06.10:208][398]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1_BuiltDataECF11F814E67A846792F43B0C8B35BD3.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset'
+[2020.04.08-15.07.24:158][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.08-15.07.24:351][778]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1E237FBA04A48544685265D9F056EF085.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1.umap'
+[2020.04.08-15.07.24:370][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.04.08-15.07.24:434][778]LogSavePackage: Moving '../../../../../Unreal projects/EnemyHealthbar/Saved/Level1_BuiltData7C7F7C3240D66E45ACCB72A812DB551B.tmp' to '../../../../../Unreal projects/EnemyHealthbar/Content/Maps/Level1_BuiltData.uasset'
+[2020.04.08-15.07.26:202][858]LogSlate: Window 'WBP_HUD_Health' being destroyed
+[2020.04.08-15.07.27:118][858]LogSlate: Window 'EnemyHealthbar - Unreal Editor' being destroyed
+[2020.04.08-15.07.27:204][858]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-15.07.29:832][859]Cmd: QUIT_EDITOR
+[2020.04.08-15.07.32:265][859]LogExit: Preparing to exit.
+[2020.04.08-15.07.52:554][859]LogExit: Editor shut down
+[2020.04.08-15.07.52:760][859]LogExit: Transaction tracking system shut down
+[2020.04.08-15.07.56:983][859]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal projects/EnemyHealthbar/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.08-15.07.56:983][859]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal projects/EnemyHealthbar/Content/Developers/liu/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.08-15.07.56:983][859]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal projects/EnemyHealthbar/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.08-15.08.12:388][859]LogExit: Object subsystem successfully closed.
+[2020.04.08-15.08.14:418][859]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.08-15.08.14:889][859]LogD3D11RHI: Shutdown
+[2020.04.08-15.08.14:893][859]LogD3D11RHI: CleanupD3DDevice
+[2020.04.08-15.08.16:379][859]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.08-15.08.23:964][859]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2020.04.08-15.08.23:964][859]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2020.04.08-15.08.23:981][859]LogModuleManager: Shutting down and abandoning module FontEditor (618)
+[2020.04.08-15.08.23:981][859]LogModuleManager: Shutting down and abandoning module SequencerWidgets (616)
+[2020.04.08-15.08.23:981][859]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2020.04.08-15.08.23:993][859]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2020.04.08-15.08.24:024][859]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2020.04.08-15.08.24:024][859]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2020.04.08-15.08.25:057][859]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2020.04.08-15.08.25:057][859]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2020.04.08-15.08.25:057][859]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2020.04.08-15.08.25:123][859]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2020.04.08-15.08.25:124][859]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.04.08-15.08.25:164][859]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.04.08-15.08.25:164][859]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.04.08-15.08.25:342][859]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.04.08-15.08.25:359][859]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.04.08-15.08.25:359][859]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.04.08-15.08.25:359][859]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.04.08-15.08.25:405][859]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.04.08-15.08.25:405][859]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.04.08-15.08.25:459][859]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.04.08-15.08.25:580][859]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.04.08-15.08.25:599][859]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.04.08-15.08.25:642][859]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.04.08-15.08.25:642][859]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.04.08-15.08.25:684][859]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.04.08-15.08.25:788][859]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.04.08-15.08.26:020][859]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.04.08-15.08.26:049][859]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.04.08-15.08.26:149][859]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.04.08-15.08.26:174][859]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.04.08-15.08.26:174][859]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.04.08-15.08.26:228][859]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.04.08-15.08.26:228][859]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.04.08-15.08.26:228][859]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.04.08-15.08.26:228][859]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.04.08-15.08.26:256][859]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.04.08-15.08.26:273][859]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.04.08-15.08.26:295][859]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.04.08-15.08.26:301][859]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.04.08-15.08.26:301][859]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.04.08-15.08.26:316][859]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.04.08-15.08.26:448][859]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.04.08-15.08.26:502][859]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.04.08-15.08.26:631][859]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.04.08-15.08.26:956][859]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.04.08-15.08.27:008][859]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.04.08-15.08.27:008][859]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.04.08-15.08.27:027][859]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.04.08-15.08.27:027][859]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.04.08-15.08.27:046][859]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.04.08-15.08.28:396][859]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.04.08-15.08.28:414][859]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.04.08-15.08.28:414][859]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.04.08-15.08.28:414][859]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.04.08-15.08.28:414][859]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.04.08-15.08.28:455][859]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.04.08-15.08.28:475][859]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.04.08-15.08.28:511][859]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.04.08-15.08.28:526][859]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.04.08-15.08.28:526][859]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.04.08-15.08.28:540][859]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.04.08-15.08.28:548][859]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.04.08-15.08.28:589][859]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.04.08-15.08.28:656][859]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.04.08-15.08.28:657][859]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.04.08-15.08.28:764][859]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.04.08-15.08.28:764][859]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.04.08-15.08.28:788][859]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.04.08-15.08.28:831][859]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.04.08-15.08.28:872][859]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.04.08-15.08.28:881][859]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.04.08-15.08.28:886][859]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.04.08-15.08.28:956][859]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.04.08-15.08.29:029][859]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.04.08-15.08.29:053][859]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.04.08-15.08.29:073][859]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.04.08-15.08.29:074][859]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.04.08-15.08.29:111][859]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.04.08-15.08.29:111][859]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.04.08-15.08.29:234][859]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.04.08-15.08.29:288][859]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.04.08-15.08.29:297][859]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.04.08-15.08.29:831][859]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.04.08-15.08.29:831][859]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.04.08-15.08.30:018][859]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.04.08-15.08.30:018][859]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.04.08-15.08.30:042][859]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.04.08-15.08.30:118][859]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.04.08-15.08.30:132][859]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.04.08-15.08.30:141][859]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.04.08-15.08.30:227][859]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.04.08-15.08.30:227][859]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.04.08-15.08.30:250][859]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.04.08-15.08.30:317][859]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.04.08-15.08.30:318][859]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.04.08-15.08.30:337][859]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.04.08-15.08.30:337][859]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.04.08-15.08.30:399][859]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.04.08-15.08.30:656][859]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.04.08-15.08.30:700][859]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.04.08-15.08.30:700][859]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.04.08-15.08.30:724][859]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.04.08-15.08.30:724][859]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.04.08-15.08.30:724][859]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.04.08-15.08.30:724][859]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.04.08-15.08.30:773][859]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.04.08-15.08.30:875][859]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.04.08-15.08.30:875][859]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.04.08-15.08.30:875][859]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.04.08-15.08.30:875][859]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.04.08-15.08.30:999][859]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.04.08-15.08.30:999][859]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.04.08-15.08.30:999][859]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.04.08-15.08.30:999][859]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.04.08-15.08.31:035][859]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.04.08-15.08.31:036][859]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.04.08-15.08.31:036][859]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.04.08-15.08.31:036][859]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.04.08-15.08.31:044][859]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.04.08-15.08.31:044][859]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.04.08-15.08.31:044][859]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.04.08-15.08.31:061][859]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.04.08-15.08.31:061][859]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.04.08-15.08.31:076][859]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.04.08-15.08.31:150][859]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.04.08-15.08.31:203][859]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.04.08-15.08.31:203][859]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.04.08-15.08.31:227][859]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.08-15.08.31:231][859]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.08-15.08.31:231][859]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.08-15.08.31:247][859]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.08-15.08.31:248][859]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.08-15.08.31:248][859]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.08-15.08.31:299][859]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.08-15.08.31:352][859]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.08-15.08.31:447][859]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.08-15.08.31:481][859]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.08-15.08.31:508][859]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.04.08-15.08.31:508][859]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.04.08-15.08.31:508][859]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.04.08-15.08.31:520][859]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.04.08-15.08.31:556][859]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.04.08-15.08.31:575][859]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.04.08-15.08.31:594][859]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.04.08-15.08.31:613][859]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.04.08-15.08.31:614][859]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.04.08-15.08.31:630][859]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.04.08-15.08.31:630][859]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.04.08-15.08.31:630][859]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.04.08-15.08.31:646][859]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.08-15.08.31:646][859]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.08-15.08.31:747][859]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.08-15.08.31:900][859]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.04.08-15.08.31:900][859]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.04.08-15.08.32:029][859]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.04.08-15.08.32:049][859]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.04.08-15.08.32:049][859]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.04.08-15.08.32:060][859]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.04.08-15.08.32:077][859]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.04.08-15.08.32:658][859]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.04.08-15.08.32:718][859]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.04.08-15.08.32:759][859]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.04.08-15.08.32:792][859]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.04.08-15.08.32:811][859]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.04.08-15.08.33:046][859]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.04.08-15.08.33:076][859]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.08-15.08.33:077][859]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.04.08-15.08.33:109][859]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.04.08-15.08.33:170][859]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.04.08-15.08.33:242][859]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.04.08-15.08.33:382][859]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.04.08-15.08.33:433][859]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.04.08-15.08.33:447][859]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.04.08-15.08.33:450][859]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.04.08-15.08.33:506][859]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.04.08-15.08.33:531][859]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.04.08-15.08.33:531][859]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.04.08-15.08.33:531][859]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.04.08-15.08.33:550][859]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.04.08-15.08.33:572][859]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.04.08-15.08.33:572][859]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.04.08-15.08.33:651][859]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.04.08-15.08.33:665][859]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.04.08-15.08.33:772][859]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.04.08-15.08.33:855][859]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.04.08-15.08.33:855][859]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.04.08-15.08.33:855][859]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.04.08-15.08.33:928][859]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.04.08-15.08.33:929][859]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.04.08-15.08.34:007][859]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.04.08-15.08.34:007][859]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.08-15.08.34:410][859]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.04.08-15.08.34:436][859]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.04.08-15.08.34:450][859]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.08-15.08.34:465][859]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.08-15.08.34:510][859]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.08-15.08.34:546][859]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.08-15.08.34:571][859]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.04.08-15.08.34:607][859]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.08-15.08.34:731][859]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.04.08-15.08.34:756][859]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.04.08-15.08.34:768][859]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.04.08-15.08.34:785][859]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.04.08-15.08.34:964][859]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.04.08-15.08.35:070][859]LogDerivedDataCache: Shutdown
+[2020.04.08-15.08.35:070][859]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.04.08-15.08.35:085][859]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.04.08-15.08.35:109][859]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.04.08-15.08.35:145][859]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.04.08-15.08.35:159][859]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.04.08-15.08.35:209][859]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.04.08-15.08.35:240][859]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.04.08-15.08.35:260][859]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.04.08-15.08.35:295][859]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.04.08-15.08.35:295][859]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.04.08-15.08.35:295][859]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.04.08-15.08.35:469][859]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.04.08-15.08.35:469][859]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.04.08-15.08.35:469][859]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.04.08-15.08.35:490][859]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.04.08-15.08.35:490][859]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.04.08-15.08.35:490][859]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.04.08-15.08.35:490][859]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.04.08-15.08.35:490][859]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.04.08-15.08.35:491][859]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.04.08-15.08.35:521][859]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.04.08-15.08.35:536][859]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.04.08-15.08.35:543][859]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.04.08-15.08.36:072][859]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.04.08-15.08.36:072][859]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.04.08-15.08.36:366][859]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.04.08-15.08.36:366][859]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.04.08-15.08.38:143][859]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.04.08-15.08.38:143][859]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.04.08-15.08.38:166][859]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.04.08-15.08.38:204][859]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.04.08-15.08.38:267][859]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.04.08-15.08.38:323][859]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.04.08-15.08.38:385][859]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.04.08-15.08.38:517][859]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.04.08-15.08.38:534][859]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.04.08-15.08.38:535][859]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.04.08-15.08.38:535][859]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.04.08-15.08.38:626][859]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.08-15.08.38:626][859]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.04.08-15.08.38:698][859]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.04.08-15.08.38:730][859]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.04.08-15.08.38:781][859]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.04.08-15.08.38:781][859]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.04.08-15.08.38:781][859]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.04.08-15.08.38:969][859]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.04.08-15.08.39:166][859]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.04.08-15.08.39:957][859]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.04.08-15.08.39:980][859]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.08-15.08.39:982][859]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5DB76674-4278-58ED-C5D6-1A9B1FE47782%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=895342b44ad2b0e1feae2389bb648b76%7C54f6911ca27b45ba85aef30d9ca8d41d%7C2117e254-2b5c-41d7-bd8a-6177c60620a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.08-15.08.40:249][859]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.04.08-15.08.40:383][859]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.04.08-15.08.40:383][859]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.04.08-15.08.40:383][859]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.04.08-15.08.40:406][859]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.04.08-15.08.40:407][859]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.04.08-15.08.40:408][859]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.04.08-15.08.40:408][859]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.04.08-15.08.40:540][859]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.04.08-15.08.40:540][859]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.04.08-15.08.40:649][859]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.08-15.08.40:666][859]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.04.08-15.08.40:772][859]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.04.08-15.08.40:792][859]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.04.08-15.08.40:957][859]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.04.08-15.08.41:006][859]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.04.08-15.08.41:006][859]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.04.08-15.08.41:006][859]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.04.08-15.08.41:006][859]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.04.08-15.08.41:525][859]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.04.08-15.08.41:552][859]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.04.08-15.08.41:553][859]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.04.08-15.08.41:611][859]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.04.08-15.08.41:611][859]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.04.08-15.08.41:611][859]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.04.08-15.08.41:611][859]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.04.08-15.08.41:665][859]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.04.08-15.08.41:665][859]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.04.08-15.08.41:679][859]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.04.08-15.08.41:679][859]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.04.08-15.08.41:831][859]LogExit: Exiting.
+[2020.04.08-15.08.42:960][859]Log file closed, 04/08/20 17:08:42
